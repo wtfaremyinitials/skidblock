@@ -6,6 +6,8 @@ A simple javascript to stop scriptkiddies using `document.body.contentEditable` 
 Usage
 =====
 
-`<script type="text/javascript" src="js/skidblock.js"></script>`
+```javascript
+<script type="text/javascript" src="js/skidblock.js"></script>
+```
 
 That's it!
